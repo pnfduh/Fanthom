@@ -1,0 +1,5 @@
+[AutoRun]
+open=launch.bat
+label=SENTINEL Telemetry Agent
+icon=agent\sentinel.ico
+action=Run SENTINEL Telemetry Agent

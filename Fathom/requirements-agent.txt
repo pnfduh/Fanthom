@@ -1,0 +1,5 @@
+# Agent requirements (PC2 / USB)
+websockets>=12.0
+psutil>=5.9.0
+pynput>=1.7.6
+pywin32>=306; sys_platform == "win32"
