@@ -9,6 +9,3 @@
 That's it.
 
 ---
-
-**To uninstall:**
-Right-click `Fathom Uninstaller.bat` and select **Run as administrator**
