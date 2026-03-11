@@ -1,9 +1,0 @@
-{
-  "server_host": "agents.fanthom.site",
-  "server_port": 8000,
-  "poll_interval_seconds": 4,
-  "reconnect_base_delay": 3,
-  "reconnect_max_delay": 60,
-  "buffer_max_size": 500,
-  "device_id": null
-}
